@@ -1,16 +1,13 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/joeellingworth/Projects/Makers/Weekly_challenges/bookmark_manager/emily_bookmarks_manager/Bookmark-manager/spec/bookmark_spec.rb": {
+      "/Users/joeellingworth/Projects/Makers/Weekly_challenges/bookmark_manager/Joe_bookmarks_manager/Bookmark-manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
           1,
           null,
           1,
-          null,
-          null,
-          null,
           1,
           1,
           1,
@@ -18,12 +15,31 @@
           1,
           1,
           null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
           null,
           null,
           null
         ]
       },
-      "/Users/joeellingworth/Projects/Makers/Weekly_challenges/bookmark_manager/emily_bookmarks_manager/Bookmark-manager/spec/features/feature_spec.rb": {
+      "/Users/joeellingworth/Projects/Makers/Weekly_challenges/bookmark_manager/Joe_bookmarks_manager/Bookmark-manager/spec/features/adding_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/joeellingworth/Projects/Makers/Weekly_challenges/bookmark_manager/Joe_bookmarks_manager/Bookmark-manager/spec/features/feature_spec.rb": {
         "lines": [
           1,
           1,
@@ -33,7 +49,7 @@
           null
         ]
       },
-      "/Users/joeellingworth/Projects/Makers/Weekly_challenges/bookmark_manager/emily_bookmarks_manager/Bookmark-manager/spec/features/viewing_bookmarks_spec.rb": {
+      "/Users/joeellingworth/Projects/Makers/Weekly_challenges/bookmark_manager/Joe_bookmarks_manager/Bookmark-manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -51,6 +67,6 @@
         ]
       }
     },
-    "timestamp": 1581440063
+    "timestamp": 1581596948
   }
 }
